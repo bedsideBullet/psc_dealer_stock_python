@@ -1,0 +1,14 @@
+{
+  "Summit": {
+    "host": "vendors.summitracing.com",
+    "port": 21,
+    "username": "pfn",
+    "password": "pSummitF_20n24M"
+  },
+  "Turn5": {
+    "host": "ftp.turn5.com",
+    "port": 21,
+    "username": "RTI-PerformanceSteering",
+    "password": "$T7T@KE5o^"
+  }
+}
